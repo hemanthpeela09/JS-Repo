@@ -1,3 +1,5 @@
+//Object Literals
+
 var city = new Object();
     city["vtz"] = "vizag";
     city["hyd"] = "hyderabad";
