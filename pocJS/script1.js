@@ -1,3 +1,5 @@
+//Type of Functions
+
 var greet = "Hello";
 var greet = "Hola";
 
