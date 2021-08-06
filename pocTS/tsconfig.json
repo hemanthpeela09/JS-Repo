@@ -74,5 +74,8 @@
     "src/basic-type.ts",
     "src/custom-types.ts",
     "src/function*.ts",
+    "src/next*.ts",
+    "src/classes*.ts",
+    "src/advance*.ts"
   ]
 }

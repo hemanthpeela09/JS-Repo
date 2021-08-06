@@ -1,3 +1,5 @@
-const value = "Hemanth";
+//Generics
 
-console.log(value);
+//Generic functions and classes
+//constriants
+//Special typescript types
